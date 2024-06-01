@@ -67,7 +67,7 @@ git clone <repository_url>
 
 5) You'll get random treasure drops , Press 'F' to claim: It might give you some damage , health , ammo or points.
 
-6) If you're in any room , and you need a breathing space and want to escape the enemies you can escape the room by unlocking the new one -> go at centre of any side of the screen and Press 'G' a 1000 points will be deducted from you and you'll be in another room.
+6) If you're in any room , and you need a breathing space and want to escape the enemies you can escape the room by unlocking the new one -> go at centre of any side of the screen and Press 'G' and 1000 points will be deducted from you and you'll be in another room.
 
 7) Press the escape key to pause the game.
    
