@@ -24,8 +24,6 @@ CVZ: Cube vs Zombies is an interactive shooting game built from scratch using C 
 7. Randomly spawning treasures with claimable loot.
 
 8. Allows Room Change, when the player reaches a certain amount of points.
-   
-9. Shake Screen Feature that triggers when an enemy comes dangerously close to the player.
 
 
 
@@ -77,13 +75,36 @@ git clone <repository_url>
 
 
 
-## 🔗 Contributors
+## 🔗 Contributions
 https://github.com/AayushBade14
+
+1. Idea of the Project
+2. Player Movement
+3. Player and enemy damage system
+4. Shooting system
+5. Game menu system
+6. Health system
+7. Screen shake system
+
 
 https://github.com/Satvik0110
 
+1. Random Enemy Spawning based on fixed probability
+2. Enemy Movement and Player Targetting System
+3. Doors and Unlockable Maps System
+4. Loot Box Spawning and Claiming System
+5. Defining of Collisions
+6. Ammo System
+
 https://github.com/tkciitj
 
+1. Points System
+2. Text Rendering using ttf
+3. Images and Sprites Rendering
+
 https://github.com/shashankparchure
+1. Audio Rendering
+2. Bugs and Error Fixing
+   
 
 
