@@ -24,6 +24,8 @@ CVZ: Cube vs Zombies is an interactive shooting game built from scratch using C 
 7. Randomly spawning treasures with claimable loot.
 
 8. Allows Room Change, when the player reaches a certain amount of points.
+   
+9. Shake Screen Feature that triggers when an enemy comes dangerously close to the player.
 
 
 
