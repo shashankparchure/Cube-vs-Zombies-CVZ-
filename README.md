@@ -100,7 +100,7 @@ https://github.com/tkciitj
 
 1. Points System
 2. Text Rendering using ttf
-3. Images and Sprites Rendering
+3. Images and Sprites Rendering and Animation.
 
 https://github.com/shashankparchure
 1. Audio Rendering
