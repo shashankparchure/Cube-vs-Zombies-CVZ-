@@ -3,7 +3,7 @@
 
 CVZ: Cube vs Zombies is an interactive shooting game built from scratch using C and the SDL2 library. This is a fun action-packed and challenging game in which you must survive against incoming swarms of various enemies and gain as many points as you can!
 
- We built this as a Major Project in our introduction to computer-science course (ICS-1010) in IIT Jodhpur.
+ We built this as a Major Project in our Introduction to Computer Science (ICS) course (CSL1010) at IIT Jodhpur.
 
 
 
